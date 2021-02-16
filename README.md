@@ -7,7 +7,7 @@
  
  ***
  
-### Abaixo os print do resultado final do projeto:
+### Abaixo os prints do resultado final do projeto:
 Tela "Home"
 ![UNES Home](https://github.com/Rodrigomelo220/projeto-unes/blob/main/.github/unes_index.png)
 
