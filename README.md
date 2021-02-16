@@ -2,6 +2,10 @@
  Projeto de uma universidade fictícia (UNES), como desafio do curso o desenvolvimento foi feito utilizando apenas HTML.
  
  ***
+ ### Tecnologias utilizadas no projeto:
+ <img src="https://github.com/Rodrigomelo220/projeto-unes/blob/main/.github/html.png" alt="HTML" height="75"/>
+ 
+ ***
  
 ### Abaixo os print do resultado final do projeto:
 Tela "Home"
