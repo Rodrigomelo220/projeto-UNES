@@ -1,5 +1,5 @@
 # Projeto UNES
- Projeto de uma universidade fictícia (UNES) desenvolvido utilizando HTML.
+ Projeto de uma universidade fictícia (UNES), como desafio do curso o desenvolvimento foi feito utilizando apenas HTML.
  
  ***
  
